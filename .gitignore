@@ -1,2 +1,8 @@
 # Ignore macOS files
 **/.DS_Store
+
+**/*.tar.zst
+**/.SRCINFO
+
+# repo specific
+sway-git/sway-git
